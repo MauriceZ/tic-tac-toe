@@ -5,4 +5,4 @@ def play
     Game.new.start
 end
 
-puts 'Type "play" to start playing!'
+play
